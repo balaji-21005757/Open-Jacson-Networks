@@ -17,6 +17,7 @@ Visual components and Python
 
 
 # Experiment:
+![multi](https://user-images.githubusercontent.com/93434149/204128929-a49b41bc-619d-49db-acb7-ea638e0ec33d.jpg)
 ## Program:
 ```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
@@ -62,7 +63,6 @@ print("----------------------------------------------------------------------")
 
 
 ## Output:
-![multi](https://user-images.githubusercontent.com/93434149/204128929-a49b41bc-619d-49db-acb7-ea638e0ec33d.jpg)
 ![image](https://user-images.githubusercontent.com/93434149/204128941-3763f962-67f7-4cd8-8180-e14ab1263637.png)
 
 ## Result:
